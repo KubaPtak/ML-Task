@@ -1,4 +1,4 @@
-# COVID-19 Assignment
+# COVID-19 Assignment in 48 h
 
 Machine learning pipeline for COVID-19 forecasting.
 
